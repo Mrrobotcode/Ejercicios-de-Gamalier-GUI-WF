@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.exe
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.deps.json
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.runtimeconfig.json
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.Form1.resources
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\refint\Ejercicios_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Ejercicios_de_Gamalier_2_GUI_WF.genruntimeconfig.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Ejercicios_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\ref\Ejercicios_de_Gamalier_2_GUI_WF.dll
