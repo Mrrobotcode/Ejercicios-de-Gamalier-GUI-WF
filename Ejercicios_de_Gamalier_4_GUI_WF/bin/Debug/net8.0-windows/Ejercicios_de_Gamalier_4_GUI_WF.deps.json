@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicios_de_Gamalier_4_GUI_WF/1.0.0": {
+        "runtime": {
+          "Ejercicios_de_Gamalier_4_GUI_WF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios_de_Gamalier_4_GUI_WF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
