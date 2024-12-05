@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practicas_de_Gamalier_1_GUI_WF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40b3f5fe22ceac9cd27a9af4e21be2c175b8d147")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b87a8fd8c38afadb977776d6e4685876aea1af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practicas_de_Gamalier_1_GUI_WF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practicas_de_Gamalier_1_GUI_WF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
