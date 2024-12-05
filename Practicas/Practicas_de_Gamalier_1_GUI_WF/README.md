@@ -48,7 +48,7 @@ Este proyecto es una aplicación de escritorio desarrollada en C# utilizando **W
   - Sueldo Neto.
 
 - Contiene un **Boton** para genera un archivo de texto que contenga la informacion del **DataGridView**.
-- Contiene un **Boton** para limpiar todos los datos del **DataGridCView**.
+- Contiene un **Boton** para limpiar todos los datos del **DataGridView**.
 
 ## Uso de la Aplicación
 
