@@ -68,10 +68,10 @@ namespace Practicas_de_Gamalier_1_GUI_WF
                 lbSueldoBonificacion.Text = $"Sueldo + Bonificacion: {totalIncentivo:'$'0.00}";
                 lbAFP.Text = $"AFP: {afp:'$'0.00}";
                 lbSFS.Text = $"SFS: {sfs:'$'0.00}";
-                lbISR.Text = $"ISR: {(isrMensual > 0 ? isrMensual.ToString(" '$'0.00") : "Exento")}";
-                lbOtros.Text = $"Otros: {incentivo.ToString(" '$'0.00")}";
+                lbISR.Text = $"ISR: {(isrMensual > 0 ? isrMensual.ToString("'$'0.00") : "Exento")}";
+                lbOtros.Text = $"Otros: {incentivo.ToString("'$'0.00")}";
                 lbSueldoNeto.Text = $"Sueldo Neto: {sueldoNeto:'$'0.00}";
-                lbTotalDescuento.Text = $"Total Descuento: {descuento.ToString(" '$'0.00")}";
+                lbTotalDescuento.Text = $"Total Descuento: {descuento.ToString("'$'0.00")}";
 
                 dgvDatos.Rows.Add(
                     nombreEmpleado,
@@ -159,13 +159,13 @@ namespace Practicas_de_Gamalier_1_GUI_WF
                             row.Cells[1].Value = Cargo;
                             row.Cells[2].Value = sueldoBruto;
                             row.Cells[3].Value = hijos;
-                            row.Cells[4].Value = totalIncentivo.ToString(" '$'0.00");
-                            row.Cells[5].Value = afp.ToString(" '$'0.00");
-                            row.Cells[6].Value = sfs.ToString(" '$'0.00");
+                            row.Cells[4].Value = totalIncentivo.ToString("'$'0.00");
+                            row.Cells[5].Value = afp.ToString("'$'0.00");
+                            row.Cells[6].Value = sfs.ToString("'$'0.00");
                             row.Cells[7].Value = isrMensual > 0 ? $"{isrMensual:'$'0.00}" : "Exento";
-                            row.Cells[8].Value = incentivo.ToString(" '$'0.00");
-                            row.Cells[9].Value = descuento.ToString(" '$'0.00");
-                            row.Cells[10].Value = sueldoNeto.ToString(" '$'0.00");
+                            row.Cells[8].Value = incentivo.ToString("'$'0.00");
+                            row.Cells[9].Value = descuento.ToString("'$'0.00");
+                            row.Cells[10].Value = sueldoNeto.ToString("'$'0.00");
 
                             MessageBox.Show("Registro modificando exitosamente", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
