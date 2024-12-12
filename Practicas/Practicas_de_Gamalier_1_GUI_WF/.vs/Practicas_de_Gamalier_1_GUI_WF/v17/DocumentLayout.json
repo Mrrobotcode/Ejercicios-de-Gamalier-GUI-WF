@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practicas_de_Gamalier_1_GUI_WF\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowKcAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAwwDYBAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T13:00:49.296Z",
               "EditorCaption": ""
@@ -63,7 +63,8 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAA0BAAAAAAAAAAAowFkBAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T13:00:38.381Z"
+              "WhenOpened": "2024-12-04T13:00:38.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +75,8 @@
               "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practicas_de_Gamalier_1_GUI_WF\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T12:59:11.016Z"
+              "WhenOpened": "2024-12-04T12:59:11.016Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
