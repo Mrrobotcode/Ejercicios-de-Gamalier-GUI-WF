@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practica_de_Gamalier_2_GUI_WF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E466EECE-3D7E-4125-B2A5-791AFE37D2C2}|Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios_wf\\practicas\\practica_de_gamalier_2_gui_wf\\practica_de_gamalier_2_gui_wf\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466EECE-3D7E-4125-B2A5-791AFE37D2C2}|Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF.csproj|solutionrelative:practica_de_gamalier_2_gui_wf\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E466EECE-3D7E-4125-B2A5-791AFE37D2C2}|Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios_wf\\practicas\\practica_de_gamalier_2_gui_wf\\practica_de_gamalier_2_gui_wf\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466EECE-3D7E-4125-B2A5-791AFE37D2C2}|Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF.csproj|solutionrelative:practica_de_gamalier_2_gui_wf\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF\\Productos.cs",
+              "RelativeDocumentMoniker": "Practica_de_Gamalier_2_GUI_WF\\Productos.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF\\Productos.cs",
+              "RelativeToolTip": "Practica_de_Gamalier_2_GUI_WF\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:29:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Practica_de_Gamalier_2_GUI_WF\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios_WF\\Practicas\\Practica_de_Gamalier_2_GUI_WF\\Practica_de_Gamalier_2_GUI_WF\\Proveedores.cs",
+              "RelativeToolTip": "Practica_de_Gamalier_2_GUI_WF\\Proveedores.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwOoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:21:05.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

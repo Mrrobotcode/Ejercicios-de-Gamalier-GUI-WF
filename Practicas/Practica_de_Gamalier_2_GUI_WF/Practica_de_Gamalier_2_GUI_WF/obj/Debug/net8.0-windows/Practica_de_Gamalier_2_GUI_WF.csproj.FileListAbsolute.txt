@@ -1,0 +1,40 @@
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Form1.resources
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Productos.resources
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Proveedores.resources
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.exe
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.deps.json
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.runtimeconfig.json
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.pdb
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\refint\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.pdb
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\ref\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Proveedores_Reportes.resources
+C:\Users\ESTUDIANTE\Desktop\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Productos_Reportes.resources
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.exe
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.deps.json
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.runtimeconfig.json
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\bin\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Form1.resources
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Productos.resources
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Proveedores.resources
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.sourcelink.json
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\refint\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.genruntimeconfig.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\ref\Practica_de_Gamalier_2_GUI_WF.dll
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios_WF\Practicas\Practica_de_Gamalier_2_GUI_WF\Practica_de_Gamalier_2_GUI_WF\obj\Debug\net8.0-windows\Practica_de_Gamalier_2_GUI_WF.Formulario_Entrada.resources
