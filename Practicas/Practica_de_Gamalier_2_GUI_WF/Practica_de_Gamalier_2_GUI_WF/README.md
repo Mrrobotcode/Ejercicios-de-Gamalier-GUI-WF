@@ -1,5 +1,4 @@
-Este proyecto es un sistema de reserva de proveedores y productos desarrollado con Windows Forms. 
-## Sistema de Mantenimiento para Proveedores y Productos
+ ## Sistema de Mantenimiento para Proveedores y Productos
 
 ## Descripción
 
